@@ -35,7 +35,7 @@ I'm a third-year Computer Science Engineering student at the University of Debre
 
 ## 📫 Let's Connect
 
-- LinkedIn: www.linkedin.com/in/abrar-zihan-38225a168
+- LinkedIn: https://www.linkedin.com/in/abrarzihan/
 - Email: abrarzihan2000@gmail.com / abrarzihan07@gmail.com
 
 Feel free to reach out if you're interested in collaborating or discussing technology and development!
