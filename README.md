@@ -12,6 +12,13 @@ I'm a third-year Computer Science Engineering student at the University of Debre
 
 ## 🌟 Projects
 
+### LeafScan – AI Plant Disease Detection Web App
+-	Built a full-stack web application that uses a MobileNetV2-based CNN to detect plant diseases from uploaded leaf images with real-time confidence scoring.
+-	Developed the backend using FastAPI and integrated it with a React.js frontend for seamless user interaction.
+-	Optimized model inference with TensorFlow and deployed the system for responsive, cross-device access.
+-	Designed for use by farmers and researchers to enable early and accurate disease diagnosis.
+-	You can see a live demo here : https://leafscan-frontend.vercel.app/
+
 ### Teach Room Booking Web Application
 - Developed authentication and authorization functionalities using Spring Security with JWT.
 - Created RESTful APIs to manage room bookings, user roles, and administrative actions.
